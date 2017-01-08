@@ -1,3 +1,5 @@
 print ("Hello world;")
 print ("Hello everybody;")
 print ("How do you feel?;")
+print ("It's great;")
+print ("What you feel?;")
